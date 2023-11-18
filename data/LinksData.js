@@ -3,14 +3,14 @@ const webLinks = [
     // All social profile
     {
         title: 'Twitter',
-        url: 'https://twitter.com/realvjy',
+        url: 'https://twitter.com/fiannnn14',
         type: 'social',
         icon: '/twitter.svg',
         on: true
     },
     {
         title: 'Instagram',
-        url: 'https://instagram.com/realvjy',
+        url: 'https://instagram.com/alfn.arsyd_',
         type: 'social',
         icon: '/insta.svg',
         on: true
@@ -65,46 +65,11 @@ const webLinks = [
         on: false
     },
     {
-        title: 'Mastodon',
-        url: 'https://mastodon.online/@realvjy',
+        title: 'Facebook',
+        url: 'https://facebook.com/fian14.id',
         type: 'social',
         icon: '/mastodon.svg',
         on: true
-    },
-    {
-        title: 'Hive Social',
-        url: 'https://www.hivesocial.app/?@realvjy',
-        type: 'social',
-        icon: '/hive.svg',
-        on: false
-    },
-    {
-        title: 'Post',
-        url: 'https://www.post.news/realvjy',
-        type: 'social',
-        icon: '/post.svg',
-        on: false
-    },
-    {
-        title: 'foundation',
-        url: 'https://vjy.me',
-        type: 'nft',
-        icon: '/foundation.svg',
-        on: false
-    },
-    {
-        title: 'opensea',
-        url: 'https://vjy.me',
-        type: 'nft',
-        icon: '/opensea.svg',
-        on: false
-    },
-    {
-        title: 'new collection',
-        url: 'https://vjy.me',
-        type: 'nft',
-        icon: '/opensea.svg',
-        on: false
     },
     // Install section
     {
