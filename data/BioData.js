@@ -1,20 +1,20 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'nxt lnk',
-        username: 'nxtlnk.vercel.app',
-        url: 'https://nxtlnk.vercel.app',
+        name: 'Fianity',
+        username: 'fian',
+        url: 'https://fianity.com',
         titleImg: true,
         avatar: '/avatar.png',
         nftAvatar: true,
-        description: 'Custom bio links for creatives who love coding. Made this first to use for my own weblinks vjy.me/lnk. ',
+        description: 'a freelance webdev worker and a contract worker as Cash replenishment services for ATM. ',
         descShow: true,
-        subdesc: 'Use this template and deploy on vercel for free',
+        subdesc: 'still need to learn about real life.',
         subdescShow: true,
-        newProductUrl: 'https://3dicons.co',
+        newProductUrl: 'https://fian14.net',
         newProduct: true,
-        author: 'realvjy',
-        authorURL: 'https://twitter.com/realvjy',
+        author: 'Allifian',
+        authorURL: 'https://instagram.com/alfn.arsyd_',
         footerText: 'made by'
     },
 ];
