@@ -16,22 +16,8 @@ const webLinks = [
         on: true
     },
     {
-        title: 'Dribbble',
-        url: 'https://dribbble.com/realvjy',
-        type: 'social',
-        icon: '/dribbble.svg',
-        on: false
-    },
-    {
-        title: 'Medium',
-        url: 'https://medium.com/@realvjy',
-        type: 'social',
-        icon: '/medium.svg',
-        on: false
-    },
-    {
         title: 'Github',
-        url: 'https://github.com/realvjy',
+        url: 'https://github.com/fian14-id',
         type: 'social',
         icon: '/github.svg',
         on: true
