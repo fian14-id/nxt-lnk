@@ -5,7 +5,7 @@ const bioData = [
         username: 'fian',
         url: 'https://fianity.com',
         titleImg: true,
-        avatar: '/avatar-komi.png',
+        avatar: '/avatar-komi.jpg',
         nftAvatar: true,
         description: 'a freelance webdev worker and a contract worker as Cash replenishment services for ATM. ',
         descShow: true,
