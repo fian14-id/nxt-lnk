@@ -75,26 +75,11 @@ const webLinks = [
     },
 
     {
-        title: 'Buy Me a Coffee',
-        url: 'https://www.buymeacoffee.com/realvjy',
+        title: 'Trakteer Me',
+        url: 'https://trakteer.id/FianDev',
         type: 'other',
-        icon: '/bmc.png',
-        on: true
-    },
-
-    {
-        title: 'link demo',
-        url: 'https://vjy.me/lnk',
-        type: 'other',
-        icon: '/vjy.png',
-        on: true
-    },
-
-    {
-        title: 'maker website',
-        url: 'https://vjy.me',
-        type: 'other',
-        icon: '/vjy.png',
+        icon:
+        'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACJElEQVR4AcWXA5BkMRiEcyybZ2t4to3C2SycbVuFs23btrm2bVuvd/9FauzMdFWM/h6TsCrdZrLaHxopF75voPz5vqEi731DJRwbFHk0N3mQF9PU6wat6pZ1+ss7iw9/vzZoV5eRbstktZ1ozsO7hsp/5M3eNVQscrI5D+TN6LnYMvhrx374JOtmFwB5s7JMvjWDPrboiOS3n0AqKSxE4Na99kDkM2sHBWzeDU3lhEXgU6vONkNYDRBx/Bw3j7v7CGEHTyInOAzxD5/js7ybeIA/IyaU33qS36rN0FTkmcviASj8GzUVMVdvI2DjTmgq4fELsQCfZF3xe+hYHv6Pn4XQ/cd48Jq3Al/UvcQBpH77BXPKi4oRB+A1Zxkiz14xGfzXbhMH8KPXcPgu32AqUB8xAPT8E568hDklf/iC7z2GOh4g6fUHWCp6Dz427+BYAKm4GNbo1+AxjgXQVOzN+/BeuLr8kaT9+A2/lZvKf0KSJPE+9JkKAUj5/F27rbGK52Ou3REPEHvzntE+wXsPigcoysjE9+5D9NppIcoJDRcPQMoNj8S3LgO1zDP+e4IkHkAbQtPceQAcIiwSGW7cXCxAQWISLJYk4VvXQY4F8J6/EiV5+RaZhx89Y/mv+J0Vm9LPiu50a02Gr536W7kp5dty5wfyZnRWcxUAebO/rEMtVxzNyJMOqS47nJIn0xTdiXf1lQs/NFD+EHU8p7nJg7yqfEsBL4Upwn8mqysAAAAASUVORK5CYII=',
         on: true
     },
 ];
