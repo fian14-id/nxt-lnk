@@ -25,7 +25,7 @@ export default function Seo({ page }) {
                             alt: `${title}`,
                         },
                     ],
-                    site_name: 'vjy.me',
+                    site_name: 'fianity.com',
                 }}
                 twitter={{
                     handle: '@fianity',
