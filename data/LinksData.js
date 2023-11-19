@@ -41,7 +41,7 @@ const webLinks = [
         title: 'Facebook',
         url: 'https://facebook.com/fian14.id',
         type: 'social',
-        icon: '/mastodon.svg',
+        icon: '/facebook.svg',
         on: true
     },
     // Install section
