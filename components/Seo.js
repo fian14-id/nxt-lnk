@@ -28,8 +28,8 @@ export default function Seo({ page }) {
                     site_name: 'vjy.me',
                 }}
                 twitter={{
-                    handle: '@realvjy',
-                    site: 'vjy.me',
+                    handle: '@fianity',
+                    site: 'fianity.com',
                     cardType: 'summary_large_image',
                 }}
                 additionalMetaTags={[{
