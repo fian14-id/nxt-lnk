@@ -44,11 +44,11 @@ const webLinks = [
         icon: '/facebook.svg',
         on: true
     },
-    // Install section
+    // project section
     {
         title: 'Portofolio',
         url: 'https://fiancuy.netlify.app',
-        type: 'install',
+        type: 'project',
         icon: '/doc.png',
         on: true
     },
