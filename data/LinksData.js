@@ -59,7 +59,8 @@ const webLinks = [
     },
     {
         title: 'Linkedin',
-        url: 'https://www.linkedin.com/in/realvjy/',
+        url:
+        'https://www.linkedin.com/in/allifian-arrasyid-71564a252?trk=contact-info',
         type: 'social',
         icon: '/linkedin.svg',
         on: false
