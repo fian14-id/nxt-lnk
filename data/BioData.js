@@ -7,7 +7,7 @@ const bioData = [
         titleImg: true,
         avatar: '/avatar-komi.jpg',
         nftAvatar: true,
-        description: 'a freelance webdev worker and a contract worker as Cash replenishment services for ATM. ',
+        description: 'a freelance webdev worker. ',
         descShow: true,
         subdesc: 'still need to learn about real life.',
         subdescShow: true,
