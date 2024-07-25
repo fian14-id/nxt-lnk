@@ -11,7 +11,7 @@ const bioData = [
         descShow: true,
         subdesc: 'still need to learn about real life.',
         subdescShow: true,
-        newProductUrl: 'https://fian14.net',
+        newProductUrl: 'https://wa.me/6285161600536',
         newProduct: true,
         author: 'Allifian',
         authorURL: 'https://instagram.com/alfn.arsyd_',
