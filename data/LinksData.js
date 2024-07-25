@@ -42,12 +42,12 @@ const webLinks = [
         url: 'https://facebook.com/fian14.id',
         type: 'social',
         icon: '/facebook.svg',
-        on: true
+        on: false
     },
     // project section
     {
         title: 'Portofolio',
-        url: 'https://fiancuy.netlify.app',
+        url: 'https://manga-web-with-tailwindcss.vercel.app/',
         type: 'project',
         icon: '/doc.png',
         on: true
