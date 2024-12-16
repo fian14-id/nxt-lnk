@@ -2,10 +2,10 @@
 const webLinks = [
     // All social profile
     {
-        title: 'Twitter',
-        url: 'https://twitter.com/fiannnn14',
+        title: 'Linkedin',
+        url: 'https://www.linkedin.com/in/mochamad-allifian-ar-rasyid/',
         type: 'social',
-        icon: '/twitter.svg',
+        icon: '/linkedin.svg',
         on: true
     },
     {
@@ -13,7 +13,7 @@ const webLinks = [
         url: 'https://instagram.com/alfn.arsyd_',
         type: 'social',
         icon: '/insta.svg',
-        on: true
+        on: false
     },
     {
         title: 'Github',
@@ -46,10 +46,17 @@ const webLinks = [
     },
     // project section
     {
-        title: 'Portofolio',
+        title: 'Manga-Web',
         url: 'https://manga-web-with-tailwindcss.vercel.app/',
         type: 'project',
         icon: '/doc.png',
+        on: true
+    },
+    {
+        title: 'Anime-cuy',
+        url: 'https://anime-cuy.fianity.com/',
+        type: 'project',
+        icon: '/anime-cuy.png',
         on: true
     },
 
