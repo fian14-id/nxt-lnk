@@ -2,12 +2,12 @@
 const bioData = [
     {
         name: 'Fianity',
-        username: 'fian',
+        username: "Mochamad Allifian Ar'rasyid",
         url: 'https://fianity.com',
         titleImg: true,
         avatar: '/avatar-komi.jpg',
         nftAvatar: true,
-        description: 'a freelance webdev worker. ',
+        description: 'A Software Engineering graduate with hands-on exprerience in web development and user interface design through school project.',
         descShow: true,
         subdesc: 'still need to learn about real life.',
         subdescShow: true,
