@@ -60,7 +60,7 @@ const webLinks = [
         on: true
     },
     {
-        title: 'Anime-cuy',
+        title: 'Generate Barcode-Realtime',
         url: 'https://barcode.fianity.com/',
         type: 'project',
         icon: '/Frieren.jpg',
