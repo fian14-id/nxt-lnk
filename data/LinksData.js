@@ -59,6 +59,13 @@ const webLinks = [
         icon: '/anime-cuy.png',
         on: true
     },
+    {
+        title: 'Anime-cuy',
+        url: 'https://barcode.fianity.com/',
+        type: 'project',
+        icon: '/Frieren.jpg',
+        on: true
+    },
 
     {
         title: 'Trakteer Me',
