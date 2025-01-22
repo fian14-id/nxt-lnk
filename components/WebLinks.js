@@ -34,8 +34,8 @@ const Links = () => {
 
 
   // Description and subdescription goes here
-  const descriptionText = descShow ? description : `Write your own fall back text if description not in BioData.js or remove me/leave blank`
-  const subdescText = subdescShow ? subdesc : `Write your own if you want or just remove me/leave blank`
+  const descriptionText = descShow ? description : ``
+  const subdescText = subdescShow ? subdesc : ``
 
 
   const newProduct = bioData[0].newProduct; // checking for newProduct flag true false
@@ -268,7 +268,7 @@ const Title = styled.div`
       font-weight: 700;
       
       letter-spacing: -2px;
-      background: linear-gradient(90deg, #4AB1F1 5.71%, #566CEC 33.77%, #D749AF 61.82%, #FF7C51 91.21%);
+      background: linear-gradient(60deg, #214C5F 50.99%, #B3C8CF 49.01%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       background-clip: text;

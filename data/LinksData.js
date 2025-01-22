@@ -46,17 +46,10 @@ const webLinks = [
     },
     // project section
     {
-        title: 'Manga-Web',
-        url: 'https://manga-web-with-tailwindcss.vercel.app/',
+        title: 'Nexanime',
+        url: 'https://nexanime.fianity.com/',
         type: 'project',
-        icon: '/doc.png',
-        on: true
-    },
-    {
-        title: 'Anime-cuy',
-        url: 'https://anime-cuy.fianity.com/',
-        type: 'project',
-        icon: '/anime-cuy.png',
+        icon: '/nexanime.jpeg',
         on: true
     },
     {
@@ -64,6 +57,13 @@ const webLinks = [
         url: 'https://barcode.fianity.com/',
         type: 'project',
         icon: '/Frieren.jpg',
+        on: true
+    },
+    {
+        title: 'Manga-Web',
+        url: 'https://manga-web-with-tailwindcss.vercel.app/',
+        type: 'project',
+        icon: '/doc.png',
         on: true
     },
 

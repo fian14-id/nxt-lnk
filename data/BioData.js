@@ -1,16 +1,16 @@
 // date: 1 Aug, 2022
 const bioData = [
     {
-        name: 'Fianity',
-        username: "Mochamad Allifian Ar'rasyid",
+        name: "Mochamad Allifian Ar'rasyid",
+        username: "Full-Stack Developer",
         url: 'https://fianity.com',
-        titleImg: true,
+        titleImg: false,
         avatar: '/fianity.png',
         nftAvatar: true,
-        description: 'A Software Engineering graduate with hands-on exprerience in web development and user interface design through school project.',
+        description: 'i can help your business to the next level by implementing these strategies...',
         descShow: true,
         subdesc: 'keep learning',
-        subdescShow: true,
+        subdescShow: false,
         newProductUrl: 'https://wa.me/6285161600536',
         newProduct: true,
         author: 'Allifian',
