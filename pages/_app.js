@@ -22,7 +22,7 @@ function MyApp({ Component, pageProps }) {
 
     return (
         <>
-            <GoogleAnalytics />
+            <GoogleAnalytics gaMeasurementId={process.env.NEXT_PUBLIC_GA_MEASUREMENT_ID} />
             <ThemeProvider theme={theme}>
                 <Head>
                     <meta content="width=device-width, initial-scale=1" name="viewport" />
