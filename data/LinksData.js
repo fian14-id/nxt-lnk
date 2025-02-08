@@ -59,13 +59,13 @@ const webLinks = [
         icon: '/Frieren.jpg',
         on: true
     },
-    {
-        title: 'Manga-Web',
-        url: 'https://manga-web-with-tailwindcss.vercel.app/',
-        type: 'project',
-        icon: '/doc.png',
-        on: true
-    },
+    // {
+    //     title: 'Manga-Web',
+    //     url: 'https://manga-web-with-tailwindcss.vercel.app/',
+    //     type: 'project',
+    //     icon: '/doc.png',
+    //     on: true
+    // },
 
     {
         title: 'Trakteer Me',
